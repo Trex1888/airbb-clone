@@ -36,7 +36,7 @@ function SearchPage() {
       />
 
       <SearchResult
-        img="https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
+        img="https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         location="Countryside house located just outside of Munich"
         title="Giant 4 bedroom house"
         description="4 Guest · 4 Bedroom · 4 Beds · 2 Bathrooms · 30 Acres · 9 Hole Golf Course"
@@ -59,7 +59,7 @@ function SearchPage() {
         title="Peaceful modern cabin"
         description="3 Guest · 2 Bedroom · 2 Bed · 1.5 Shared Bathrooms · Wifi · Personal Chef · Dry Cleaning"
         star={5.0}
-        price="180 / night"
+        price="$180 / night"
         total="$900 total"
       />
       <SearchResult
